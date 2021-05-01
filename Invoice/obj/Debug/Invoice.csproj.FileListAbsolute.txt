@@ -45,3 +45,5 @@ D:\RND\InvoiceManagement\InvoiceManagement\Invoice\obj\Debug\Invoice.csprojResol
 D:\RND\InvoiceManagement\InvoiceManagement\Invoice\obj\Debug\Invoice.csproj.CoreCompileInputs.cache
 D:\RND\InvoiceManagement\InvoiceManagement\Invoice\obj\Debug\Invoice.dll
 D:\RND\InvoiceManagement\InvoiceManagement\Invoice\obj\Debug\Invoice.pdb
+D:\RND\InvoiceManagement\InvoiceManagement\Invoice\bin\EntityFramework.SqlServer.dll
+D:\RND\InvoiceManagement\InvoiceManagement\Invoice\bin\EntityFramework.SqlServer.xml

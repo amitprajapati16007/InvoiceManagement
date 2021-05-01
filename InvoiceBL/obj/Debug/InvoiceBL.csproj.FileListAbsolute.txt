@@ -22,5 +22,6 @@ D:\RND\InvoiceManagement\InvoiceManagement\InvoiceBL\obj\Debug\InvoiceBL.csprojR
 D:\RND\InvoiceManagement\InvoiceManagement\InvoiceBL\obj\Debug\InvoiceBL.csproj.CoreCompileInputs.cache
 D:\RND\InvoiceManagement\InvoiceManagement\InvoiceBL\obj\Debug\InvoiceBL.dll
 D:\RND\InvoiceManagement\InvoiceManagement\InvoiceBL\obj\Debug\InvoiceBL.pdb
-D:\RND\InvoiceManagement\InvoiceManagement\InvoiceBL\obj\Debug\InvoiceBL.Migrations.customer.resources
+D:\RND\InvoiceManagement\InvoiceManagement\InvoiceBL\obj\Debug\InvoiceBL.Migrations.dd.resources
 D:\RND\InvoiceManagement\InvoiceManagement\InvoiceBL\obj\Debug\InvoiceBL.csproj.GenerateResource.Cache
+D:\RND\InvoiceManagement\InvoiceManagement\InvoiceBL\obj\Debug\InvoiceBL.Migrations.fdfsdf.resources
